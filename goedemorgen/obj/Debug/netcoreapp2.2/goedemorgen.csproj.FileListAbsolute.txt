@@ -1,0 +1,11 @@
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\bin\Debug\netcoreapp2.2\goedemorgen.deps.json
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\bin\Debug\netcoreapp2.2\goedemorgen.runtimeconfig.json
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\bin\Debug\netcoreapp2.2\goedemorgen.runtimeconfig.dev.json
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\bin\Debug\netcoreapp2.2\goedemorgen.dll
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\bin\Debug\netcoreapp2.2\goedemorgen.pdb
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.csprojAssemblyReference.cache
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.csproj.CoreCompileInputs.cache
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.AssemblyInfoInputs.cache
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.AssemblyInfo.cs
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.dll
+C:\Users\marij\OneDrive\Documents\GitHub\PRO2-achievements\goedemorgen\obj\Debug\netcoreapp2.2\goedemorgen.pdb
